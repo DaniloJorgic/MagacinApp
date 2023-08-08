@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875012670169",
+    "project_id": "magacinapp-c8ad1",
+    "storage_bucket": "magacinapp-c8ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875012670169:android:2d85df3e808974875a74c8",
+        "android_client_info": {
+          "package_name": "com.example.magacinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875012670169-4ah298lh3vod57dqvjs44e9uuc62uqpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcin_ISxrEfjTCOQ0GedBcMPdKjDKqaSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875012670169-4ah298lh3vod57dqvjs44e9uuc62uqpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

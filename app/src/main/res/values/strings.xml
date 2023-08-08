@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagacinApp</string>
+    <string name="register">Registracija</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="click_to_login">Klik za login</string>
+</resources>
